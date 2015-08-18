@@ -1,8 +1,8 @@
-# logo of Linked Connections
+# Logo for Linked Connections
 
-A gimp source file and export of the Linked Connections logo
+A repo for the Linked Connections logo: pull requests welcome for the SVG file.
 
-Colors to be used:
+Colors to be used (also pull requestable):
  * Fill: #3b6790
  * Border: #2a3e50
 
